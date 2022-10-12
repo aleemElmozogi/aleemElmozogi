@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleemElmozogi
-- 👀 I’m interested in App Devolepment, Front-End, UI UX design
+- 👀 I’m interested in Mobile App Devolepment, Front-End, UI UX design
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on flutter application
 - 📫 How to reach me Elmozogiabdalalim@gmail.com
