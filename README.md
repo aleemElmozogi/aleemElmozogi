@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleemElmozogi
 - 👀 I’m interested in Mobile App Devolepment, Front-End, UI UX design
-- 🌱 I’m currently learning backend with js
+- 🌱 I’m currently learning backend with C#
 - 💞️ I’m looking to collaborate on flutter application
 - 📫 How to reach me Elmozogiabdalalim@gmail.com
 
