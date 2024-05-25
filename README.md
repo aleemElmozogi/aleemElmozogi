@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul-Aleem Elmoxughi, Software Engineering graduate 🎓
+- 👋 Hi, I’m Abdul-Aleem Elmozughi, Software Engineering graduate 🎓
 - 👀 I’m interested in Mobile App Devolepment using Flutter,
 - 🌱 I’m currently learning backend with Asp .net core
 - 💞️ I’m looking to collaborate on Flutter application
